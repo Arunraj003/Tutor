@@ -1,7 +1,7 @@
-import java.lang;
+import java.lang.*;
 
 class basic {
-    public static void main(String args[]){
-        System.out.println("Wlcome to java");
-    }
+    public static void main(String args[]) {
+        System.out.println("Welcome to java");
+    } 
 }
