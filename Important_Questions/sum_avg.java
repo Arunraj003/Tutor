@@ -1,4 +1,4 @@
-package Important_Questions;
+package Important_questions;
 
 // 24.factorial -- important concept and questions with answer
 // 2. write  a program to find the sum and average of given n number

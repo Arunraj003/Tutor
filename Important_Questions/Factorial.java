@@ -1,4 +1,4 @@
-package Important_Questions;
+package Important_questions;
 // 24.factorial -- important concept and questions with answer
 // 1. write  a program to find the factorial of given number
 // 5! => 1 x 2 x 3 x 4 x 5 => 120

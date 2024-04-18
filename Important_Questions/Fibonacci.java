@@ -1,4 +1,4 @@
-package Important_Questions;
+package Important_questions;
 
 import java.util.Scanner;
 public class Fibonacci {
