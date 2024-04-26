@@ -11,7 +11,7 @@ public class reverse_number {
         while(n!=0){
             rem=n%10; //3
             reverse =(reverse*10)+rem; //(0*10)+3=>3 
-            n=n/10;  //12
+            n=n/10;  //12 
         }
         scan.close();
         System.out.println("Reversed Number : " + reverse);
